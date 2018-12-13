@@ -8,6 +8,11 @@ body {
 	font-family: 'Open Sans', sans-serif;
 }
 
+h1 {
+	font-size: 52px;
+	font-weight: 300;
+	color: #fff;
+}
 
 .slicknav_menu {
 	display: none;
