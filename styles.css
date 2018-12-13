@@ -36,6 +36,12 @@ header {
 	padding: 10px 20px 20px 20px; 
 }
 
+.hero {
+	background-image: url("images/Jill VZ _ Kaitlynn 2016-138x.jpg");
+}
+
+
+
 /*Tablet View*/
 
 @media(max-width: 768px) {
