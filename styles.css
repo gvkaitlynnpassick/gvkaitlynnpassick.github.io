@@ -81,10 +81,14 @@ header {
 }
 
 .lets-talk {
+<<<<<<< HEAD
 	background-color: #B30002;
 	padding: 8px 30px;
 	text-decoration: none;
 	color: #fff;
+=======
+	background-color: #942022;
+>>>>>>> origin/master
 	
 }
 
