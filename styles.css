@@ -5,8 +5,9 @@
 /*Desktop / Global View*/
 
 body {
-	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-family: 'Open Sans', sans-serif;
 }
+
 
 .slicknav_menu {
 	display: none;
