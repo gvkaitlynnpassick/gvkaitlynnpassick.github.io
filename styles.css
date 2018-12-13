@@ -62,7 +62,7 @@ header {
 }
 
 .hero {
-	background-image: url("images/Jill VZ _ Kaitlynn 2016-138x.jpg");
+	background-image: url("images/header.jpg");
 	padding: 52px 0px 72px 72px;
 	background-size: cover;
 }
@@ -85,7 +85,7 @@ header {
 	padding: 8px 30px;
 	text-decoration: none;
 	color: #fff;
-	background-color: #942022;
+	background-color: #DC5422;
 	
 }
 
@@ -118,6 +118,11 @@ header {
 	}
 	
 	
+
+
+.col-md {
+			width: 100%;
+	}
 }
 
 
