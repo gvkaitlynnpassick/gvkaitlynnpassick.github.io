@@ -61,7 +61,12 @@ header {
 	display: block;
 }
 
-.hero {
+.hero-one {
+	background-image: url("images/header.jpg");
+	padding: 52px 0px 72px 72px;
+	background-size: cover;
+}
+.hero-two {
 	background-image: url("images/Jill VZ _ Kaitlynn 2016-138x.jpg");
 	padding: 52px 0px 72px 72px;
 	background-size: cover;
