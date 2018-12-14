@@ -113,7 +113,7 @@ header {
 
 /*Mobile View*/
 
-@media(max-width: 440px) {
+@media(max-width: 430px) {
 
 .slicknav_menu {
 	display: block;
